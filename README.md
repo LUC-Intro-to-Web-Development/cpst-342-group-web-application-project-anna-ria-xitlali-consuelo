@@ -1,6 +1,8 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12688241&assignment_repo_type=AssignmentRepo)
 # CPST 342 Group Project Repository 
-
+- **Heroku URL:**
+    https://bookshub-3f11667db16c.herokuapp.com/
+  
 You will complete three assignments that will culminate in developing a monolithic full-stack web application. 
 
 For the first group assignment, you will propose what type of app you will build and use the README.md file to document your responses to the questions for Assignment 1 deliverable 1.  All documentation pertaining to your project should occur in the README.md. 
@@ -154,7 +156,10 @@ Heroku - [https://www.heroku.com](https://www.heroku.com/) 
 Only one member of your team will need to create an account. 
 Heroku will need to be configured to host your site from the GitHub repository issued by the instructor. 
 
-Update the repository Readme file to include the URL from Heroku
+Update the repository Readme file to include the URL from Heroku 
+- **Heroku URL:**
+    https://bookshub-3f11667db16c.herokuapp.com/
+
 
 
 ### Extra Credit – Implementing Authentication + Authorization using Passport.js or AuthO (7 Extra Credit Points)
